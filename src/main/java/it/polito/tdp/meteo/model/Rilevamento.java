@@ -1,5 +1,6 @@
 package it.polito.tdp.meteo.model;
 
+
 import java.util.Date;
 
 public class Rilevamento {
